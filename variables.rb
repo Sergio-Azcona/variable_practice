@@ -14,3 +14,8 @@ remaining_total = 16000.00
 per_year = 72350.32
 desire = 10500.30
 diff = 10500.30 - 72350.32
+
+#booleans: where do we say yes or no
+take_80 = false
+take_90 = false
+take_100 = true
