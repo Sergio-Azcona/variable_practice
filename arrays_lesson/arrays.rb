@@ -15,3 +15,8 @@ month.unshift(.12)
 
 #shift will return the value sited, ie false
 male.shift(false)
+
+#index position practice
+puts home_bodies [2] #returning LJ as he is in the 2nd index position
+puts ages [3] #returning 2
+puts months [0] #returning .6 
