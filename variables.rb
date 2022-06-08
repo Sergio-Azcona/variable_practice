@@ -8,3 +8,9 @@ person_2 = "Ari"
 hour_person_1 = 2
 hour_person_2 = 3
 amount = 16
+
+#floats
+remaining_total = 16000.00
+per_year = 72350.32
+desire = 10500.30
+diff = 10500.30 - 72350.32
